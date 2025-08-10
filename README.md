@@ -32,7 +32,7 @@
 🔹 [**Echo Eventus**](https://github.com/nicolasjveiga/echo-eventus)  
 Event management system in PHP (no framework), developed in team. Focus on logic and clean code.
 
-🔹 [**CommerceAPI**](https://github.com/nicolasjveiga/commerce-api)  
+🔹 [**CommerceAPI**](https://github.com/nicolasjveiga/laravel-commerce-api)  
 RESTful API simulating an e-commerce. Includes product catalog, cart, orders and auth. Built with Laravel and MySQL.
 
 🔹 [**CityDbProject**](https://github.com/nicolasjveiga/city-db-project)  
