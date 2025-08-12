@@ -1,7 +1,7 @@
 # 📌 About Me
 
 🎓 Student of Internet Systems at UTFPR 
-⚙️ Enthusiastic about back-end development, APIs, and automation  
+⚙️ Enthusiastic about back-end development, APIs
 💡 Always exploring clean code, good practices, and new technologies  
 📈 Interested in building scalable and functional solutions
 
